@@ -1,0 +1,19 @@
+{
+  "name": "kernel-client",
+  "version": "0.0.0",
+  "description": "A client to interact with the Hacker Union kernel.",
+  "main": "app.js",
+  "scripts": {
+    "run": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hackerunion/kernel-client"
+  },
+  "author": "Brandon Diamond",
+  "license": "GPL 2.0",
+  "bugs": {
+    "url": "https://github.com/hackerunion/kernel-client/issues"
+  },
+  "homepage": "https://github.com/hackerunion/kernel-client"
+}
